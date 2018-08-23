@@ -1,0 +1,23 @@
+{
+  "name": "boton",
+  "version": "0.0.1",
+  "description": "ejemplo de un mvc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MAB",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "bulma": "^0.7.1",
+    "express": "^4.16.3",
+    "sweetalert": "^2.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "false"
+  },
+  "keywords": [
+    "json"
+  ]
+}

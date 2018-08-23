@@ -1,0 +1,11 @@
+button{
+    color: antiquewhite;
+    background-color: midnightblue;
+    font-size: 35px;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 80px;
+}
+nav{
+    text-align: center;
+}
